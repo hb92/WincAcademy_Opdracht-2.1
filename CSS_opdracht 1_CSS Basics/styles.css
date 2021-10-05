@@ -1,0 +1,26 @@
+h1 { 
+    font: italic 25px Georgia, serif;
+}
+h2 { 
+    font: italic 20px Georgia, serif;
+}
+body {
+    font: normal 14px Georgia, serif;
+}
+.main-navigation {
+    background-color: #ccafad;
+}
+ul.main-navigation {
+        padding: 0;
+        list-style: none;
+	}
+    ul.main-navigation li{
+        display: inline;
+	}
+	ul.main-navigation li a {
+		margin: 10px;
+		text-decoration: none;
+	}
+ul.lijst {
+        list-style:square
+    }
